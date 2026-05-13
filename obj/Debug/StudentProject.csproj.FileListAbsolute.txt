@@ -1,0 +1,7 @@
+D:\Projects\Programming Projects\c# projects\StudentProject\bin\Debug\StudentProject.exe.config
+D:\Projects\Programming Projects\c# projects\StudentProject\bin\Debug\StudentProject.exe
+D:\Projects\Programming Projects\c# projects\StudentProject\bin\Debug\StudentProject.pdb
+D:\Projects\Programming Projects\c# projects\StudentProject\obj\Debug\StudentProject.csproj.AssemblyReference.cache
+D:\Projects\Programming Projects\c# projects\StudentProject\obj\Debug\StudentProject.csproj.CoreCompileInputs.cache
+D:\Projects\Programming Projects\c# projects\StudentProject\obj\Debug\StudentProject.exe
+D:\Projects\Programming Projects\c# projects\StudentProject\obj\Debug\StudentProject.pdb

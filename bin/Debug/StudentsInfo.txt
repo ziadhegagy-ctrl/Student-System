@@ -1,0 +1,45 @@
+Student#//#1#//#Ziad Hegagy#//#CS
+Course#//#CS101#//#Programing#//#3#//#1
+Grade#//#Assighment#//#10#//#20
+Grade#//#Quiz#//#8#//#20
+Grade#//#Final#//#55#//#60
+Grade#//#eeeee#//#0#//#3
+Course#//#IT101#//#IT#//#3#//#2
+Grade#//#ASS#//#100#//#100#//#20
+Grade#//#Quiz#//#100#//#100#//#20
+Grade#//#Final#//#100#//#100#//#60
+Course#//#FQ101#//#ddd#//#3#//#1
+Grade#//#Quiz#//#0#//#10
+Grade#//#ASS#//#0#//#20
+Grade#//#final#//#0#//#70
+Course#//#CD101#//#Cs#//#3#//#1
+Grade#//#ff#//#0#//#7
+EndStudent
+Student#//#2#//#Abdo Ali#//#CS
+Course#//#CS101#//#Programing#//#3#//#1
+Grade#//#Assighment#//#10#//#20
+Grade#//#Quiz#//#10#//#20
+Grade#//#Final#//#10#//#60
+Grade#//#eeeee#//#0#//#3
+Course#//#IT101#//#IT#//#3#//#2
+Grade#//#ASS#//#19.8#//#100#//#20
+Grade#//#Quiz#//#100#//#100#//#20
+Grade#//#Final#//#91.67#//#100#//#60
+EndStudent
+Student#//#3#//#Oday Mahmoud#//#IT
+Course#//#CS101#//#Programing#//#3#//#1
+Grade#//#Assighment#//#10#//#20
+Grade#//#Quiz#//#10#//#20
+Grade#//#Final#//#40#//#60
+Grade#//#eeeee#//#0#//#3
+Course#//#IT101#//#IT#//#3#//#2
+Grade#//#ASS#//#50#//#100#//#20
+Grade#//#Quiz#//#50#//#100#//#20
+Grade#//#Final#//#66.67#//#100#//#60
+Course#//#FQ101#//#ddd#//#3#//#1
+Grade#//#Quiz#//#0#//#10
+Grade#//#ASS#//#0#//#20
+Grade#//#final#//#0#//#70
+EndStudent
+Student#//#33#//#Ziad#//#Cs
+EndStudent
